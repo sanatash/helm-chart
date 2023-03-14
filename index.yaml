@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  my-wordpress-mysql:
+  - apiVersion: v2
+    appVersion: 0.15.0
+    created: "2023-03-14T18:03:28.0022609+02:00"
+    description: A Helm chart for deploying Wordpress that uses a MySQL database to
+      store and retrieve content
+    digest: fdb777bbe9b39ce318b6adfd39fd588d73b322070c9e1819aba9bfe337fae209
+    name: my-wordpress-mysql
+    type: application
+    urls:
+    - https://sanatash.github.io/helm-chart/my-wordpress-mysql-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-14T18:03:27.9989235+02:00"
