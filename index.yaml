@@ -3,7 +3,7 @@ entries:
   my-wordpress-mysql:
   - apiVersion: v2
     appVersion: 0.15.0
-    created: "2023-03-15T12:39:07.685428+02:00"
+    created: "2023-04-15T12:08:00.5411871+03:00"
     description: A Helm chart for deploying Wordpress that uses a MySQL database to
       store and retrieve content
     digest: b3e5c8c9c246bf3fc325322a54cddde5ff85d0e0458e2ef0968d1164d5e60b8f
@@ -12,4 +12,15 @@ entries:
     urls:
     - https://sanatash.github.io/helm-chart/my-wordpress-mysql-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-15T12:39:07.6822872+02:00"
+  producer:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-04-15T12:08:00.5417269+03:00"
+    description: A Helm chart for the Producer application
+    digest: 8e9da6830611061fb181a454bd12bfc160564f470589236a421a0e0fea6df0b0
+    name: producer
+    type: application
+    urls:
+    - https://sanatash.github.io/helm-chart/producer-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-15T12:08:00.5388419+03:00"
